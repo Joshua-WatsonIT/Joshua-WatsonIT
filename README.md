@@ -10,7 +10,7 @@ I am now applying that diagnostic logic to software and hardware. I don't just s
 ---
 
 ### 📚 Current Studies
-- **Google IT Support Professional Certificate:** Currently on Course 3 (Operating Systems).
+- **Google IT Support Professional Certificate:** Currently on Course 4.
 - **CompTIA A+:** Studying Core 1 & 2 using Sybex guides.
 - **Philosophy:** "Learn it to remember it." Prioritizing deep understanding over speed.
 ### 📜 Certifications
