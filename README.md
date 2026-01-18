@@ -7,6 +7,20 @@ For years, I diagnosed complex mechanical issues, installed critical infrastruct
 
 I am now applying that diagnostic logic to software and hardware. I don't just swap parts; I dig into the documentation to understand *why* the failure happened.
 
+
+## 💻 Tech Stack & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF8800?style=for-the-badge&logo=adguard&logoColor=white)
+
+
+
 ---
 
 ### 📚 Current Studies
