@@ -18,7 +18,9 @@ I am now applying that diagnostic logic to software and hardware. I don't just s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF8800?style=for-the-badge&logo=adguard&logoColor=white)
-
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Networking/Nmap](https://img.shields.io/badge/Networking%20%26%20Nmap-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 
 
 ---
@@ -30,10 +32,12 @@ I am now applying that diagnostic logic to software and hardware. I don't just s
 ### 📜 Certifications
 | Course | Issuer | Status |
 | :--- | :--- | :--- |
-| **Technical Support Fundamentals** (|https://coursera.org/share/3e0800a2170a2db0a79d5115bde6c9f7) Google (Coursera) | ✅ Completed |
-| **The Bits and Bytes of Computer Networking** |(https://coursera.org/share/bbf62fb059c7321b9c671905347cf77c) Google (Coursera) | ✅ Completed |
+| **Technical Support Fundamentals** |https://coursera.org/share/3e0800a2170a2db0a79d5115bde6c9f7 Google (Coursera) | ✅ Completed |
+| **The Bits and Bytes of Computer Networking** |https://coursera.org/share/bbf62fb059c7321b9c671905347cf77c Google (Coursera) | ✅ Completed |
 | **Operating Systems & You: Becoming a Power User** |https://coursera.org/share/8028311145589ac329774657d7d57c2a Google (Coursera) | ✅ Completed |
 | **System Administration and IT Infastructure Service.** |https://coursera.org/share/ab1fcff45bf0d124f7aa65126792138 Google (Coursera) | ✅ Completed |
+| **IT Security: Defense against the Digital Dark Arts** |https://coursera.org/share/cc835c7a4d2d6017a631e9c1553674b1 Google (Coursera) |✅ Complleted |
+| **Google IT Support Certificate** |https://coursera.org/share/83d053d9b6d6cfef3fd28bb513665a8a Google (Coursera) |✅ Completes |
 ### 🛠️ Hardware & Home Lab
 I believe the best way to learn is to build it myself.
 - **Primary Workstation:** Windows 11 (Intel Pentium Gold, 16GB RAM)
