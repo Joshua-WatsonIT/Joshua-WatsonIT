@@ -91,3 +91,5 @@ I believe the best way to learn is to build it myself.
 ### 🔴 Scenario 3: Command Syntax Navigation
 * **Issue:** Needed to modify user credentials but was unsure of specific argument syntax.
 * **Resolution:** Utilized the `--help` flag to self-document the command options and successfully executed the password change without external guides.
+
+* 
